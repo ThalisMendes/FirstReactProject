@@ -1,4 +1,4 @@
-# Título do Projeto
+# First React Project
 
 This is my first react project, using VITE as build tool. This project is part of the course "Learn React For Free", from Scrimba. 
 
